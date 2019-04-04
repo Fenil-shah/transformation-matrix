@@ -1,4 +1,4 @@
-import {Matrix} from "transformation-matrix";
+//import {Matrix} from "transformation-matrix";
 
 declare module 'transformation-matrix' {
   type Matrix = {
